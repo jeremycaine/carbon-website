@@ -45,6 +45,8 @@
       path: /developing/angular-tutorial/overview/
     - title: React tutorial
       path: /developing/react-tutorial/overview/
+    - title: Next tutorial
+      path: /developing/next-tutorial/overview/
     - title: Vue tutorial
       path: /developing/vue-tutorial/overview/
 - title: Contributing
